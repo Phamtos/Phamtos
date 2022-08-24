@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 -->
+
+# ✔ About me
+
+I am Jimmy Pham, an aspiring Computer Science student with some experience in multiple outlets of Comp Sci currently pursuing my Bachalors of Science at California State University, Fullerton.
+
+I enjoy spending time learning about new technology.
+
+Outside of work, I usually enjoy spending time learning about my 
