@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # ✔ About me
 
-🐱‍💻 I am Jimmy Pham, an aspiring Computer Science student with some experience in multiple outlets of Comp Sci currently pursuing my Bachalors of Science at California State University, Fullerton.
+🐱‍💻 I am Jimmy Pham, an aspiring Computer Science student with some experience in multiple aspects of Comp Sci currently pursuing my Bachalors of Science at California State University, Fullerton.
 
 👨‍🎓 I enjoy spending time and am highly passionate of learning about new technology. In 2021, I learned MySql, Python, and Algorithms. Towards the beginning of 2022, I practice and leanred more of Cyber Security, Computer Networking, Game and Web Development and Artificial Intelligence. From now to the end of 2022, I will have learned Cloud Computing and Security, Blockchain Technology, and Mobile Dev (with a concentration in Andriod).
 
