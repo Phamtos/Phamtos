@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ⚡ Outside of work, I usually enjoy spending time hanging out with friends as well as learn about a new topic or skill unrelated to technology. I have recently been learning about more skills about cooking and having time to hang-out with my friends whether it's online or in-person. 
 
 ✈ I also would to Travel more often each year. My recent trip was a family trip to Hawaii.
+
+[![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/your-user-url.png)](https://www.codeabbey.com/index/user_profile/your-user-url)
