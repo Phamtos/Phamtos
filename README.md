@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ✈ I also would to Travel more often each year. My recent trip was a family trip to Hawaii.
 
-[![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/your-user-url.png)](https://www.codeabbey.com/index/user_profile/your-user-url)
+[![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/jimmy-pham.png)](https://www.codeabbey.com/index/user_profile/jimmy-pham)
